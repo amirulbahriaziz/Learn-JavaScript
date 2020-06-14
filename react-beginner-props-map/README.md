@@ -3,8 +3,10 @@
 Sample of react's props using map() to a set of array.
 
 &nbsp;
+&nbsp;
+&nbsp;
 
----
+
 
 ## References
 
