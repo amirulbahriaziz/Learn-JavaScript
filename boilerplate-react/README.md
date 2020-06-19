@@ -1,8 +1,11 @@
 # Boilerplate-React
 
-- React
+- [React](https://reactjs.org/)
 
 ## Get Started
 
-1. Create the project.
-   `npm create-react-app boilerplate-react-bootstrap`
+Step 1 : Create the project.
+
+```
+npm create-react-app boilerplate-react-bootstrap
+```
